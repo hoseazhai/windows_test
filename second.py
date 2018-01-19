@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 iiiiiiiiiii
+=======
+oooooooooooooooooooooooooooooo
+>>>>>>> dev
